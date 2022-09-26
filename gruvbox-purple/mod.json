@@ -1,0 +1,24 @@
+{
+    "name": "gruvbox purple",
+    "id": "808dd9f2-472d-4a75-bc72-baeb8eef8b14",
+    "version": "0.1.0",
+    "description": "purple purple purple.",
+    "preview": "gruvbox-purple.png",
+    "tags": ["theme", "light"],
+    "authors": [
+      {
+        "name": "cantrmmbr",
+        "email": "accwithpot@gmail.com",
+        "homepage": "https://github.com/cantrmmbr",
+        "avatar": "https://avatars.githubusercontent.com/u/72895804?v=4"
+     }
+    ],
+    "css": {
+      "frame": ["variables.css"],
+      "client": ["variables.css"],
+      "menu": ["variables.css"]
+    },
+    "js": {},
+    "options": []
+  }
+  

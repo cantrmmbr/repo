@@ -1,7 +1,5 @@
 /**
- * notion-enhancer: gruvbox light
- * (c) 2015-2020 morhetz <morhetz@gmail.com>
- * (c) 2021 jordanrobinson <me@jordanrobinson.co.uk> (https://jordanrobinson.co.uk/)
+ * notion-enhancer: light+
  * (c) 2021 dragonwocky <thedragonring.bod@gmail.com> (https://dragonwocky.me/)
  * (https://notion-enhancer.github.io/) under the MIT license
  */
@@ -11,7 +9,7 @@
    * variables are named for consistency with gruvbox dark,
    * but the _light variants are actually darker here
    */
-  --gruvbox_light--bg: #efd281;
+  --gruvbox_light--bg: #beb3eb;
   --gruvbox_light--light_gray_dark: #B3A89E;
   --gruvbox_light--gray_dark: #928374;
   --gruvbox_light--red_dark: #cc241d;
