@@ -26,7 +26,7 @@
       "type": "hotkey",
       "key": "panel.hotkey",
       "label": "toggle panel hotkey",
-      "value": "Ctrl+Alt+\\",
+      "value": "Ctrl+Shift+D",
       "tooltip": "**opens/closes the side panel in notion** if a mod that uses it has been enabled"
     }
   ]
