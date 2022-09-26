@@ -93,7 +93,7 @@ module.exports = async function (api, db, __exports, __eval) {
       type: 'normal',
       label: 'new window',
       click: createWindow,
-      accelerator: 'CmdOrCtrl+Shift+N',
+      accelerator: 'Ctrl+Shift+N',
     },
     {
       label: 'relaunch',
